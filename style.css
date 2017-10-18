@@ -1,0 +1,27 @@
+body {
+  background-color: #FF6;
+}
+.quote-style{
+  font: 36px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0,0,0,0.7);
+  text-shadow: 3px 3px 3px #fff;
+  margin: 10px 10px 10px 10px
+}
+.small-style-border{
+  max-height: 60%;
+  width: auto;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+.black-border{
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+.caption{
+  font-size: 14px;
+}
+.silver-background{
+  background-color: silver;
+}
